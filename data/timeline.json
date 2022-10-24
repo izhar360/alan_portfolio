@@ -1,0 +1,44 @@
+[
+	{
+		"date": "09-26-2022",
+		"title": "Start University",
+		"description": "Started studying Computer Science at City, University of London",
+		"icon": "feather:book",
+		"link": {
+			"text": "Visit City University",
+			"url": "https://www.city.ac.uk/"
+		}
+	},
+	{
+		"date": "06-28-2022",
+		"title": "Finish Highschool",
+		"description": "Graduated Highschool with a final score of 100 'e lode' (A-plus)",
+		"icon": "feather:award"
+	},
+	{
+		"date": "07-16-2019",
+		"title": "HanBan Summer Camp",
+		"description": "Earned a 2 week scholarship holiday at Beijing Capital Normal University",
+		"icon": "feather:globe",
+		"link": {
+			"text": "Ca' Foscari UniVe Post",
+			"url": "https://www.unive.it/pag/28698/"
+		}
+	},
+	{
+		"date": "09-13-2017",
+		"title": "Start Highschool",
+		"description": "Began Highschool at Aleardo Aleardi Interantional School of Verona",
+		"icon": "feather:book",
+		"link": {
+			"text": "Visit Aleardo Aleardi ISV",
+			"url": "http://www.aleardi.it/"
+		}
+	},
+	{
+		"date": "05-27-2003",
+		"title": "Birthday",
+		"description": "I was born on the 27th of May 2003",
+		"icon": "feather:gift"
+	}
+]
